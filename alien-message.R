@@ -1,1 +1,2 @@
-cat("Yo Aliens\nwhat is up man, I hope you guys are doing well.\nIf you can see and understand this, u guys probably can \neasily attack us with more advanced technologies and occupy\nearth one day maybe. But please have mercy, I don't want to\ndie yet :)")
+cat("Dear Aliens,\nI hope you guys are doing well.If you can see and understand this and find earth out of millions of planets in the universe, you probably can easily attack us with your more advanced technologies and occupy earth one day maybe. But please have mercy, we will cooperate! Otherwise, I have some questions for you. What's the life like on your planet and what is the structure of your society?\nThanks,\nYouce")
+
